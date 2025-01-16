@@ -17,8 +17,8 @@ Ce projet est une base de départ pour les applications web utilisant Nuxt 3, av
 1. Clonez ce dépôt :
 
    ```bash
-   git clone https://github.com/hte88/baseProject.git
-   cd baseProject
+   git clone https://github.com/hte88/nuxt-base-project.git
+   cd nuxt-base-project
    ```
 
 2. Installez les dépendances :
